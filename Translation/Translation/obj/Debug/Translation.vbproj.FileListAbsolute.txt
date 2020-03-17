@@ -1,0 +1,11 @@
+c:\users\osama\documents\visual studio 2015\Projects\Translation\Translation\bin\Debug\Translation.exe.config
+c:\users\osama\documents\visual studio 2015\Projects\Translation\Translation\bin\Debug\Translation.exe
+c:\users\osama\documents\visual studio 2015\Projects\Translation\Translation\bin\Debug\Translation.pdb
+c:\users\osama\documents\visual studio 2015\Projects\Translation\Translation\bin\Debug\Translation.xml
+c:\users\osama\documents\visual studio 2015\Projects\Translation\Translation\obj\Debug\Translation.vbprojResolveAssemblyReference.cache
+c:\users\osama\documents\visual studio 2015\Projects\Translation\Translation\obj\Debug\Translation.Form1.resources
+c:\users\osama\documents\visual studio 2015\Projects\Translation\Translation\obj\Debug\Translation.Resources.resources
+c:\users\osama\documents\visual studio 2015\Projects\Translation\Translation\obj\Debug\Translation.vbproj.GenerateResource.Cache
+c:\users\osama\documents\visual studio 2015\Projects\Translation\Translation\obj\Debug\Translation.exe
+c:\users\osama\documents\visual studio 2015\Projects\Translation\Translation\obj\Debug\Translation.xml
+c:\users\osama\documents\visual studio 2015\Projects\Translation\Translation\obj\Debug\Translation.pdb
